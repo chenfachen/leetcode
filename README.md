@@ -14,6 +14,7 @@
 * 1588 [所有奇数长度子数组的和.md](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/1588.%E6%89%80%E6%9C%89%E5%A5%87%E6%95%B0%E9%95%BF%E5%BA%A6%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E5%92%8C.md)
 * 628 [三个数的最大乘积](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/628.%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.md)
 * 219 [存在重复元素II](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
+* 228 [汇总区间](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/228.%E6%B1%87%E6%80%BB%E5%8C%BA%E9%97%B4.md)
 
 ### 哈希
 * 219 [存在重复元素II](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
