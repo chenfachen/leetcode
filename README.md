@@ -20,3 +20,6 @@
 
 ### 哈希
 * 219 [存在重复元素II](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
+
+### 字符串
+* 1576 [替换所有的问号](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1576.%20%E6%9B%BF%E6%8D%A2%E6%89%80%E6%9C%89%E7%9A%84%E9%97%AE%E5%8F%B7.md)
