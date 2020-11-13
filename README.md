@@ -24,3 +24,4 @@
 ### 字符串
 * 1576 [替换所有的问号](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1576.%20%E6%9B%BF%E6%8D%A2%E6%89%80%E6%9C%89%E7%9A%84%E9%97%AE%E5%8F%B7.md)
 * 459 [重复的子字符串](https://github.com/chenfachen/leetcode/tree/main/%E5%AD%97%E7%AC%A6%E4%B8%B2)
+* 1370 [上升下降字符串](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1370.%E4%B8%8A%E5%8D%87%E4%B8%8B%E9%99%8D%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
