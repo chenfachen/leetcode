@@ -27,3 +27,4 @@
 * 1370 [上升下降字符串](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1370.%E4%B8%8A%E5%8D%87%E4%B8%8B%E9%99%8D%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * 面试题01.06 [字符串压缩](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E9%9D%A2%E8%AF%95%E9%A2%98%2001.06%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8E%8B%E7%BC%A9.md)
 * 1374 [生成每种字符都是奇数个的字符串](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1374.%20%E7%94%9F%E6%88%90%E6%AF%8F%E7%A7%8D%E5%AD%97%E7%AC%A6%E9%83%BD%E6%98%AF%E5%A5%87%E6%95%B0%E4%B8%AA%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* 859 [亲密字符串](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/859.%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
