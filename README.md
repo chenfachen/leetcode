@@ -31,3 +31,4 @@
 
 ### 树
 * 589 [N叉树的前序遍历](https://github.com/chenfachen/leetcode/blob/main/%E6%A0%91/589.N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+* 94 [二叉树的中序遍历](https://github.com/chenfachen/leetcode/blob/main/%E6%A0%91/94.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
