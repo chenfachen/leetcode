@@ -32,3 +32,5 @@
 ### 树
 * 589 [N叉树的前序遍历](https://github.com/chenfachen/leetcode/blob/main/%E6%A0%91/589.N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 * 94 [二叉树的中序遍历](https://github.com/chenfachen/leetcode/blob/main/%E6%A0%91/94.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+* 110 [平衡二叉树](https://github.com/chenfachen/leetcode/blob/main/%E6%A0%91/110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+* 1022 [从根到叶的二进制数之和](https://github.com/chenfachen/leetcode/blob/main/%E6%A0%91/1022.%E4%BB%8E%E6%A0%B9%E5%88%B0%E5%8F%B6%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E4%B9%8B%E5%92%8C.md)
