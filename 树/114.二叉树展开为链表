@@ -1,0 +1,50 @@
+# 二叉树展开为链表
+
+## [题目](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+给定一个二叉树，原地将它展开为一个单链表。
+
+## 解题思路
+可以发现展开的顺序其实就是二叉树的先序遍历。
+因为右子树一定在左子树的最右节点后面，所以可以分为以下步骤
+1.找到左子树的最右节点
+2.将右子树接在1找到的节点的右边
+3.将新的左子树放在右边，并将左子树设置为null
+
+## 代码
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }*/
+
+class Solution {
+    public void flatten(TreeNode root) {
+        while(root != null){
+            TreeNode pre = root.left;
+            if(root.left == null){
+                root = root.right;
+            }else{
+                while(pre.right != null){
+                    pre = pre.right;
+                }
+                pre.right = root.right;
+                root.right = root.left;
+                root.left = null;
+                root = root.right;
+            }
+        }    
+    }
+}
+```
+
+
