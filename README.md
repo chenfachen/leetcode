@@ -41,3 +41,4 @@
 * 1365 [有多少小于当前数字的数字](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/1365.%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * 463 [岛屿的周长](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/463.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.md)
 * 884 [两句话中的不常见单词](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/884.%20%E4%B8%A4%E5%8F%A5%E8%AF%9D%E4%B8%AD%E7%9A%84%E4%B8%8D%E5%B8%B8%E8%A7%81%E5%8D%95%E8%AF%8D.md)
+* 1160[拼写单词](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/1160.%E6%8B%BC%E5%86%99%E5%8D%95%E8%AF%8D.md)
