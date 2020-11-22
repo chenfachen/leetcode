@@ -18,9 +18,6 @@
 * 605 [种花问题](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/605.%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
 * 832 [翻转图像](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/832.%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 
-### 哈希
-* 219 [存在重复元素II](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
-
 ### 字符串
 * 1576 [替换所有的问号](https://github.com/chenfachen/leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2/1576.%20%E6%9B%BF%E6%8D%A2%E6%89%80%E6%9C%89%E7%9A%84%E9%97%AE%E5%8F%B7.md)
 * 459 [重复的子字符串](https://github.com/chenfachen/leetcode/tree/main/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -41,4 +38,5 @@
 * 1365 [有多少小于当前数字的数字](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/1365.%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * 463 [岛屿的周长](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/463.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.md)
 * 884 [两句话中的不常见单词](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/884.%20%E4%B8%A4%E5%8F%A5%E8%AF%9D%E4%B8%AD%E7%9A%84%E4%B8%8D%E5%B8%B8%E8%A7%81%E5%8D%95%E8%AF%8D.md)
-* 1160[拼写单词](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/1160.%E6%8B%BC%E5%86%99%E5%8D%95%E8%AF%8D.md)
+* 1160 [拼写单词](https://github.com/chenfachen/leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8/1160.%E6%8B%BC%E5%86%99%E5%8D%95%E8%AF%8D.md)
+* 219 [存在重复元素II](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md)
