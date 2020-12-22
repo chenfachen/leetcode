@@ -54,3 +54,4 @@
 
 ### 动态规划
 * 53 [最大子序和](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
+* 121 [买股票的最佳时机](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/121.%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
