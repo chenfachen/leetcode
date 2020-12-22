@@ -7,7 +7,6 @@
 * [系统设计](#系统设计)
 
 ## :memo: <span id="数据结构">数据结构</span>
-### 链表
 
 ### 数组
 * 977 [有序数组的平方](https://github.com/chenfachen/leetcode/blob/main/%E6%95%B0%E7%BB%84/977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md)
@@ -49,3 +48,8 @@
 * 234 [回文链表](https://github.com/chenfachen/leetcode/blob/main/%E9%93%BE%E8%A1%A8/234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
 * 876 [链表的中间节点](https://github.com/chenfachen/leetcode/blob/main/%E9%93%BE%E8%A1%A8/876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)
 * 206 [反转链表](https://github.com/chenfachen/leetcode/blob/main/%E9%93%BE%E8%A1%A8/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
+
+## :bulb: <span id="算法">算法</span>
+
+### 动态规划
