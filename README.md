@@ -55,3 +55,5 @@
 ### 动态规划
 * 53 [最大子序和](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 * 121 [买股票的最佳时机](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/121.%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
+* 746 [使用最小花费爬楼梯](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+* 303 [区域和检索](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2.md)
