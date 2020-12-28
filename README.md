@@ -63,3 +63,4 @@
 * 392 [判断子序列](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 ## :memo: <span id="hot100">hot100</span>
+* 1. [两数之和](https://github.com/chenfachen/leetcode/blob/main/hot100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
