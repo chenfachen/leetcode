@@ -59,3 +59,4 @@
 * 303 [区域和检索](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2.md)
 * 面试题17.16 [按摩师](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E9%9D%A2%E8%AF%95%E9%A2%9817.16%20%E6%8C%89%E6%91%A9%E5%B8%88.md)
 * 70 [爬楼梯](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+* 392 [判断子序列](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)
