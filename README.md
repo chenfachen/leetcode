@@ -78,3 +78,4 @@
 * 14 [最长公共前缀](https://github.com/chenfachen/leetcode/blob/main/hot100/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
 * 15 [三数之和](https://github.com/chenfachen/leetcode/blob/main/hot100/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 * 19 [删除链表的第N个节点](https://github.com/chenfachen/leetcode/blob/main/hot100/19.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+* 20 [有效的括号](https://github.com/chenfachen/leetcode/blob/main/hot100/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
