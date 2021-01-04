@@ -64,6 +64,7 @@
 
 ### 回溯算法
 * 17 [电话号码的字母组合](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/17.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
+* 22 [括号生成](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
 
 ## :memo: <span id="hot100">hot100</span>
 * 1 [两数之和](https://github.com/chenfachen/leetcode/blob/main/hot100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
@@ -84,3 +85,4 @@
 * 19 [删除链表的第N个节点](https://github.com/chenfachen/leetcode/blob/main/hot100/19.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 * 20 [有效的括号](https://github.com/chenfachen/leetcode/blob/main/hot100/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 * 21 [合并两个有序链表](https://github.com/chenfachen/leetcode/blob/main/hot100/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+* 22 [括号生成](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
