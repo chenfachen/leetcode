@@ -88,3 +88,4 @@
 * 22 [括号生成](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
 * 23 [合并K个升序链表](https://github.com/chenfachen/leetcode/blob/main/hot100/23.%20%E5%90%88%E5%B9%B6k%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 * 31 [下一个排列](https://github.com/chenfachen/leetcode/blob/main/hot100/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
+* 32 [最长有效括号](https://github.com/chenfachen/leetcode/blob/main/hot100/32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
