@@ -68,6 +68,7 @@
 
 ### 二分算法
 * 704 [二分算法](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+* 34 [在排序数组中查找元素的第一个和最后一个位置](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 
 ## :memo: <span id="hot100">hot100</span>
 * 1 [两数之和](https://github.com/chenfachen/leetcode/blob/main/hot100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
@@ -92,3 +93,4 @@
 * 23 [合并K个升序链表](https://github.com/chenfachen/leetcode/blob/main/hot100/23.%20%E5%90%88%E5%B9%B6k%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 * 31 [下一个排列](https://github.com/chenfachen/leetcode/blob/main/hot100/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
 * 32 [最长有效括号](https://github.com/chenfachen/leetcode/blob/main/hot100/32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
+* 34 [在排序数组中查找元素的第一个和最后一个位置](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
