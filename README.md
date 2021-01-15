@@ -94,3 +94,4 @@
 * 31 [下一个排列](https://github.com/chenfachen/leetcode/blob/main/hot100/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
 * 32 [最长有效括号](https://github.com/chenfachen/leetcode/blob/main/hot100/32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
 * 34 [在排序数组中查找元素的第一个和最后一个位置](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
+* 42 [接雨水](https://github.com/chenfachen/leetcode/blob/main/hot100/42.%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
