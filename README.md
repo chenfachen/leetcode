@@ -65,6 +65,7 @@
 ### 回溯算法
 * 17 [电话号码的字母组合](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/17.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
 * 22 [括号生成](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/22.%20%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
+* 39 [组合总和](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 
 ### 二分算法
 * 704 [二分算法](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
@@ -94,4 +95,5 @@
 * 31 [下一个排列](https://github.com/chenfachen/leetcode/blob/main/hot100/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
 * 32 [最长有效括号](https://github.com/chenfachen/leetcode/blob/main/hot100/32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
 * 34 [在排序数组中查找元素的第一个和最后一个位置](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
+* 39 [组合总和](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 * 42 [接雨水](https://github.com/chenfachen/leetcode/blob/main/hot100/42.%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
