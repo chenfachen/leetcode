@@ -104,3 +104,4 @@
 * 55 [跳跃游戏](https://github.com/chenfachen/leetcode/blob/main/hot100/55.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
 * \*56 [合并区间](https://github.com/chenfachen/leetcode/blob/main/hot100/56.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md)
 * 62 [不同路径](https://github.com/chenfachen/leetcode/blob/main/hot100/62.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
+* 64 [最小路径和](https://github.com/chenfachen/leetcode/blob/main/hot100/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
