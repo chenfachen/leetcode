@@ -68,6 +68,7 @@
 * 39 [组合总和](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 * 46 [回溯算法](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/46.%E5%85%A8%E6%8E%92%E5%88%97.md)
 * 78 [子集](https://github.com/chenfachen/leetcode/blob/main/hot100/78.%20%E5%AD%90%E9%9B%86.md)
+* 79 [单词搜索](https://github.com/chenfachen/leetcode/blob/main/hot100/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 
 ### 二分算法
 * 704 [二分算法](https://github.com/chenfachen/leetcode/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
@@ -110,3 +111,4 @@
 * 75 [颜色分类](https://github.com/chenfachen/leetcode/blob/main/hot100/75.%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
 * \*76 [最小覆盖字串](https://github.com/chenfachen/leetcode/blob/main/hot100/76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
 * 78 [子集](https://github.com/chenfachen/leetcode/blob/main/hot100/78.%20%E5%AD%90%E9%9B%86.md)
+* 79 [单词搜索](https://github.com/chenfachen/leetcode/blob/main/hot100/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
