@@ -112,3 +112,4 @@
 * \*76 [最小覆盖字串](https://github.com/chenfachen/leetcode/blob/main/hot100/76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
 * 78 [子集](https://github.com/chenfachen/leetcode/blob/main/hot100/78.%20%E5%AD%90%E9%9B%86.md)
 * 79 [单词搜索](https://github.com/chenfachen/leetcode/blob/main/hot100/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
+* \84 [柱状图中最大的矩形](https://github.com/chenfachen/leetcode/blob/main/hot100/84.%20%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
