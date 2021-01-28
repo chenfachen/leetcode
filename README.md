@@ -123,3 +123,4 @@
 * 136 [只出现一次的数字](https://github.com/chenfachen/leetcode/blob/main/hot100/136.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
 * 139 [单词拆分](https://github.com/chenfachen/leetcode/blob/main/hot100/139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
 * 141 [环形链表](https://github.com/chenfachen/leetcode/blob/main/hot100/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
+* 142 [环形链表II](https://github.com/chenfachen/leetcode/blob/main/hot100/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md)
