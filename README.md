@@ -121,3 +121,4 @@
 * 105 [从前序遍历与中序遍历序列构造二叉树](https://github.com/chenfachen/leetcode/blob/main/hot100/105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 * 128 [最长连续序列](https://github.com/chenfachen/leetcode/blob/main/hot100/128.%20%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 * 136 [只出现一次的数字](https://github.com/chenfachen/leetcode/blob/main/hot100/136.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
+* 139 [单词拆分](https://github.com/chenfachen/leetcode/blob/main/hot100/139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
