@@ -125,4 +125,4 @@
 * 141 [环形链表](https://github.com/chenfachen/leetcode/blob/main/hot100/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 * 142 [环形链表II](https://github.com/chenfachen/leetcode/blob/main/hot100/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md)
 * \*146 [LRU缓存机制](https://github.com/chenfachen/leetcode/blob/main/hot100/146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
-* 148 [排序链表](https://github.com/chenfachen/leetcode/blob/main/hot100/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+* \*148 [排序链表](https://github.com/chenfachen/leetcode/blob/main/hot100/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
