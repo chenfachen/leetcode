@@ -129,3 +129,4 @@
 * 152 [乘积最大子数组](https://github.com/chenfachen/leetcode/blob/main/hot100/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
 * 155 [最小栈](https://github.com/chenfachen/leetcode/blob/main/hot100/155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.md)
 * 160 [相交链表](https://github.com/chenfachen/leetcode/blob/main/hot100/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
+* 169 [多数元素](https://github.com/chenfachen/leetcode/blob/main/hot100/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
