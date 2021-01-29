@@ -130,3 +130,4 @@
 * 155 [最小栈](https://github.com/chenfachen/leetcode/blob/main/hot100/155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.md)
 * 160 [相交链表](https://github.com/chenfachen/leetcode/blob/main/hot100/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
 * 169 [多数元素](https://github.com/chenfachen/leetcode/blob/main/hot100/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
+* 198 [打家劫舍](https://github.com/chenfachen/leetcode/blob/main/hot100/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
