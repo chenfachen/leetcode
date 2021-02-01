@@ -142,3 +142,4 @@
 * 239 [滑动窗口最大值](https://github.com/chenfachen/leetcode/blob/main/hot100/239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 * 240 [搜索二维矩阵II](https://github.com/chenfachen/leetcode/blob/main/hot100/240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.md)
 * 279 [完全平方数](https://github.com/chenfachen/leetcode/blob/main/hot100/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
+* 283 [移动零](https://github.com/chenfachen/leetcode/blob/main/hot100/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
