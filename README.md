@@ -144,3 +144,4 @@
 * 279 [完全平方数](https://github.com/chenfachen/leetcode/blob/main/hot100/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
 * 283 [移动零](https://github.com/chenfachen/leetcode/blob/main/hot100/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
 * 287 [寻找重复数](https://github.com/chenfachen/leetcode/blob/main/hot100/287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.md)
+* 297 [二叉树的序列化与反序列化](https://github.com/chenfachen/leetcode/blob/main/hot100/297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
