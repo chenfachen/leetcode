@@ -151,3 +151,4 @@
 * 322 [零钱兑换](https://github.com/chenfachen/leetcode/blob/main/hot100/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 * 338 [比特位计数](https://github.com/chenfachen/leetcode/blob/main/hot100/338.%20%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.md)
 * 347 [前K个高频元素](https://github.com/chenfachen/leetcode/blob/main/hot100/347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
+* 394 [字符串解码](https://github.com/chenfachen/leetcode/blob/main/hot100/394.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
