@@ -153,3 +153,4 @@
 * 347 [前K个高频元素](https://github.com/chenfachen/leetcode/blob/main/hot100/347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
 * 394 [字符串解码](https://github.com/chenfachen/leetcode/blob/main/hot100/394.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
 * 399 [除法求值](https://github.com/chenfachen/leetcode/blob/main/hot100/399.%E9%99%A4%E6%B3%95%E6%B1%82%E5%80%BC.md)
+* 406 [根据身高重建队列](https://github.com/chenfachen/leetcode/blob/main/hot100/406.%20%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.md)
