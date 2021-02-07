@@ -62,6 +62,7 @@
 * 70 [爬楼梯](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
 * 392 [判断子序列](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md)
 * 122 [买股票的最佳时机II](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/122.%20%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.md)
+* 1143 [最长公共子序列](https://github.com/chenfachen/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 ### 回溯算法
 * 17 [电话号码的字母组合](https://github.com/chenfachen/leetcode/blob/main/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/17.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
