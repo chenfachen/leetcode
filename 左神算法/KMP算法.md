@@ -43,3 +43,4 @@
         return isSameValueStructure(head1.left, head2.left) && isSameValueStructure(head1.right, head2.right);
     }
 ```
+时间复杂度O（m*n）
